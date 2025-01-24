@@ -6,7 +6,7 @@ I am a professional individual with a strong work ethic and high adaptability. I
 
 Skills: HTML5 / CSS3 / Bootstrap 5/ WordPress/ Shopify/ PHP
 
-- 🔭 I’m currently working on CINTech Bangladesh Ltd. 
+- 🔭 I’m currently working at Orangetoolz.com. 
 - 🌱 I’m currently learning PHP 
 - 👯 I’m looking to collaborate on github 
 - 📫 How to reach me: shahriaremon971@gmail.com 
